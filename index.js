@@ -1,2 +1,2 @@
-import DateRange from './src/js';
+import DateRange from './js';
 export default DateRange;
