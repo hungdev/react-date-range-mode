@@ -1,2 +1,2 @@
-import DateRange from './js';
-export default DateRange;
+module.exports = require('./js/index');
+exports.default = require('./js/index');
